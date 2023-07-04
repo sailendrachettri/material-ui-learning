@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-import MuiAutocomplete from './components/MuiAutocomplete';
+import { MuiBox } from './components/MuiBox';
+// import MuiAutocomplete from './components/MuiAutocomplete';
 // import MuiRating from './components/MuiRating';
 // import MuiSwitch from './components/MuiSwitch';
 // import MuiCheckBox from './components/MuiCheckBox';
@@ -22,7 +23,8 @@ function App() {
         {/* <MuiCheckBox /> */}
         {/* <MuiSwitch /> */}
         {/* <MuiRating /> */}
-        <MuiAutocomplete />
+        {/* <MuiAutocomplete /> */}
+        <MuiBox />
       </div>
     </>
   );
