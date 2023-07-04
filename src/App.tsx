@@ -1,11 +1,11 @@
 import './App.css';
-import MuiMenu from './components/MuiMenu';
+import MuiLink from './components/MuiLink';
 
 function App() {
   return (
     <>
       <div className="App">
-        <MuiMenu />
+        <MuiLink />
       </div>
     </>
   );
