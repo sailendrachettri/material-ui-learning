@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-import { MuiGrid } from './components/MuiGrid';
+import { Muipaper } from './components/Muipaper';
+// import { MuiGrid } from './components/MuiGrid';
 // import { MuiStack } from './components/MuiStack';
 // import { MuiBox } from './components/MuiBox';
 // import MuiAutocomplete from './components/MuiAutocomplete';
@@ -28,7 +29,8 @@ function App() {
         {/* <MuiAutocomplete /> */}
         {/* <MuiBox /> */}
         {/* <MuiStack /> */}
-        <MuiGrid />
+        {/* <MuiGrid /> */}
+        <Muipaper />
       </div>
     </>
   );
