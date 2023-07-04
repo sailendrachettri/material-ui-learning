@@ -1,11 +1,11 @@
 import './App.css';
-import { MuiDrawer } from './components/MuiDrawer';
+import { MuiSpeedDial } from './components/MuiSpeedDial';
 
 function App() {
   return (
     <>
       <div className="App">
-        <MuiDrawer />
+        <MuiSpeedDial />
       </div>
     </>
   );
