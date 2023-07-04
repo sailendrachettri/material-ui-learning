@@ -1,11 +1,11 @@
-import './App.css';
-import { MuiBottonNavigation } from './components/MuiBottonNavigation';
+import './App.css'
+import { MuiAvatar } from './components/MuiAvatar'
 
 function App() {
   return (
     <>
       <div className="App">
-        <MuiBottonNavigation />
+        <MuiAvatar />
       </div>
     </>
   );
