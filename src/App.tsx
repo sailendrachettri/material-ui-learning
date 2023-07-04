@@ -1,11 +1,11 @@
 import './App.css';
-import { MuiSpeedDial } from './components/MuiSpeedDial';
+import { MuiBottonNavigation } from './components/MuiBottonNavigation';
 
 function App() {
   return (
     <>
       <div className="App">
-        <MuiSpeedDial />
+        <MuiBottonNavigation />
       </div>
     </>
   );
