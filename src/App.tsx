@@ -1,11 +1,11 @@
 import './App.css';
-import { MuiBreadcrums } from './components/MuiBreadcrums';
+import { MuiDrawer } from './components/MuiDrawer';
 
 function App() {
   return (
     <>
       <div className="App">
-        <MuiBreadcrums />
+        <MuiDrawer />
       </div>
     </>
   );
