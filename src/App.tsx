@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-import { Muipaper } from './components/Muipaper';
+import { MuiCard } from './components/MuiCard';
+// import { Muipaper } from './components/Muipaper';
 // import { MuiGrid } from './components/MuiGrid';
 // import { MuiStack } from './components/MuiStack';
 // import { MuiBox } from './components/MuiBox';
@@ -30,7 +31,8 @@ function App() {
         {/* <MuiBox /> */}
         {/* <MuiStack /> */}
         {/* <MuiGrid /> */}
-        <Muipaper />
+        {/* <Muipaper /> */}
+        <MuiCard />
       </div>
     </>
   );
