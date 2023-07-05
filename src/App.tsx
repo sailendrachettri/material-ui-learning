@@ -1,12 +1,12 @@
 import './App.css'
-import { MuiTooltip } from './components/MuiTooltip';
+import { MuiTable } from './components/MuiTable'
 
 
 function App() {
   return (
     <>
       <div className="App">
-        <MuiTooltip />
+        <MuiTable />
       </div>
     </>
   );
