@@ -1,12 +1,12 @@
 import './App.css'
-import { MuiTimeline } from './components/MuiTimeline';
+import { Muimecinery } from './components/Muimecinery';
 
 
 function App() {
   return (
     <>
       <div className="App">
-        <MuiTimeline />
+        <Muimecinery />
       </div>
     </>
   );
