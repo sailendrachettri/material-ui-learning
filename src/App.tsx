@@ -1,12 +1,12 @@
 import './App.css'
-import { MuiTable } from './components/MuiTable'
+import { MuiAlert } from './components/MuiAlert'
 
 
 function App() {
   return (
     <>
       <div className="App">
-        <MuiTable />
+        <MuiAlert />
       </div>
     </>
   );
