@@ -1,12 +1,12 @@
 import './App.css'
-import { Muimecinery } from './components/Muimecinery';
+import { MuiResponsiveness } from './components/MuiResponsiveness'
 
 
 function App() {
   return (
     <>
       <div className="App">
-        <Muimecinery />
+        <MuiResponsiveness />
       </div>
     </>
   );
