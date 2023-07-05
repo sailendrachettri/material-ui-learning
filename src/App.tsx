@@ -1,12 +1,12 @@
 import './App.css'
-import { MuiLoadingButton } from './components/MuiLoadingButton'
+import { MuiTabs } from './components/MuiTabs';
 
 
 function App() {
   return (
     <>
       <div className="App">
-        <MuiLoadingButton />
+        <MuiTabs />
       </div>
     </>
   );
